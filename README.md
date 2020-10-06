@@ -1,2 +1,2 @@
 # Version-V1-Core
-The core codes of CorreSwap™ Version 1.0
+The core codes of CoreSwap™ Version 1.0
